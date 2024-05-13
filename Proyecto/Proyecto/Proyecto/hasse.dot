@@ -1,0 +1,8 @@
+digraph G {
+rankdir=BT;
+4 -> 8 [arrowhead=none];
+5 -> 10 [arrowhead=none];
+8 -> 24 [arrowhead=none];
+8 -> 80 [arrowhead=none];
+10 -> 80 [arrowhead=none];
+}
